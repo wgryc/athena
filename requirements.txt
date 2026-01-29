@@ -1,0 +1,12 @@
+pytest
+openpyxl
+pandas
+yfinance
+jinja2
+python-dotenv
+massive
+anthropic
+rich
+litellm
+scipy
+databento
